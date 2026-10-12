@@ -1,0 +1,9 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "particle": "betternether:block/ceiling_mushrooms_bottom",
+        "bottom": "betternether:block/ceiling_mushrooms_bottom",
+        "top": "block/netherrack",
+        "side": "betternether:block/ceiling_mushrooms_bottom"
+    }
+}

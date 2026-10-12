@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/fast_better_grass",
+    "textures": {
+        "bottom": "betterend:block/shadow_grass_top",
+        "sidetop": "betterend:block/shadow_grass_top"
+    }
+}

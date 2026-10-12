@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/fast_better_grass",
+    "textures": {
+        "bottom": "burnt:block/sandy_dirt",
+        "sidetop": "burnt:block/burnt_grass"
+    }
+}

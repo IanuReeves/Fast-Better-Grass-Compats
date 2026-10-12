@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/fast_better_grass",
+    "textures": {
+        "bottom": "deeperdarker:block/sculk_stone",
+        "sidetop": "deeperdarker:block/blooming_sculk_stone_top"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/fast_better_grass",
+    "textures": {
+        "bottom": "iceandfire:block/frozen_dirt",
+        "sidetop": "iceandfire:block/frozen_grass_top"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "particle": "betterend:block/mossy_dragon_bone_side_ver",
+        "bottom": "betterend:block/dragon_bone_block_top",
+        "top": "betterend:block/sangnum_top",
+        "side": "betterend:block/sangnum_top"
+    }
+}

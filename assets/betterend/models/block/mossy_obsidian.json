@@ -1,0 +1,9 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "particle": "betterend:block/sangnum_top",
+        "bottom": "block/obsidian",
+        "top": "betterend:block/sangnum_top",
+        "side": "betterend:block/sangnum_top"
+    }
+}

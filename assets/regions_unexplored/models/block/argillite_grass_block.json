@@ -1,0 +1,89 @@
+{
+    "parent": "block/block",
+    "textures": {
+        "particle": "regions_unexplored:block/argillite",
+        "bottom": "regions_unexplored:block/argillite",
+        "sidetop": "regions_unexplored:block/ru_grass_block_top"
+    },
+    "elements": [
+        {
+            "from": [
+                0,
+                0,
+                0
+            ],
+            "to": [
+                16,
+                16,
+                16
+            ],
+            "faces": {
+                "down": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ],
+                    "texture": "#bottom",
+                    "cullface": "down"
+                },
+                "up": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ],
+                    "texture": "#sidetop",
+                    "cullface": "up",
+                    "tintindex": 0
+                },
+                "north": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ],
+                    "texture": "#sidetop",
+                    "cullface": "north",
+                    "tintindex": 0
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ],
+                    "texture": "#sidetop",
+                    "cullface": "south",
+                    "tintindex": 0
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ],
+                    "texture": "#sidetop",
+                    "cullface": "west",
+                    "tintindex": 0
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ],
+                    "texture": "#sidetop",
+                    "cullface": "east",
+                    "tintindex": 0
+                }
+            }
+        }
+    ]
+}
