@@ -14,4 +14,4 @@ Adds support for the following mods:
 
 If you'd like to submit a mod request, please use the [Issues Tab](https://github.com/IanuReeves/Fast-Better-Grass-Compats/issues) in Github
 
-Note: Mainly tested on 1.21.1. Added blocks include stonified and other non-dirt varients of grassy blocks to maintain continuity, which is planned to be individually disabled with the [Respackopts](https://modrinth.com/mod/respackopts) mod starting from 1.0.
+Note: Mainly tested on 1.21.1. Added blocks include stonified and other non-dirt varients of grassy blocks to maintain continuity, which is planned to be individually disabled with the [Respackopts](https://modrinth.com/mod/respackopts) mod starting from the release 1.0.
